@@ -17,4 +17,8 @@ def goodMorningTo(name):
 def goodMorningToMe():
     print("Hello me!!!")
 
+def goodNight():
+    print("Good Night")
+
+
 
