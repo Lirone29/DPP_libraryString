@@ -13,3 +13,6 @@ def sayGoodbyeToCheese():
 
 def sayGoodbyeToCheese2():
     print("GoodBye <3 22222")
+
+def sayGoodbyeToCheese3():
+    print("GoodBye <3 33333333333")
