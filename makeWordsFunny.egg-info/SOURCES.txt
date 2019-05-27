@@ -1,0 +1,9 @@
+README.md
+setup.py
+makeWordsFunny/__init__.py
+makeWordsFunny/goodMorning.py
+makeWordsFunny/sayCheeseLib.py
+makeWordsFunny.egg-info/PKG-INFO
+makeWordsFunny.egg-info/SOURCES.txt
+makeWordsFunny.egg-info/dependency_links.txt
+makeWordsFunny.egg-info/top_level.txt

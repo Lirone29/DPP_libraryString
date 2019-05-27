@@ -13,3 +13,8 @@ def goodMorningInKorean():
 
 def goodMorningTo(name):
     print("Good Morning" + name + " !!")
+
+def goodMorningToMe():
+    print("Hello me!!!")
+
+
