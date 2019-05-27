@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='makeWordsFunny',
-    version='1.2',
+    version='1.3',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='Library for DPP lab 10',

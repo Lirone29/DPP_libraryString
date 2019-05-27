@@ -10,3 +10,6 @@ def sayCheeseXTimes(number):
 
 def sayGoodbyeToCheese():
     print("GoodBye <3")
+
+def sayGoodbyeToCheese2():
+    print("GoodBye <3 22222")
